@@ -1,0 +1,99 @@
+{
+  "student_list": [
+    {
+      "id": "1",
+      "fname": "Yuvraj",
+      "lname": "Kushwah",
+      "gender": "Male",
+      "roll_no": "5",
+      "dob": "2020-02-18",
+      "blood_group": "B+",
+      "religion": "Hindu",
+      "email": "sonukushwah362@gmail.com",
+      "class": "U.K.G",
+      "section": "M1",
+      "admission_id": "S101",
+      "phone": "8358957395",
+      "address": "Anand Nagar"
+    },
+    {
+      "id": "2",
+      "name": "sonu",
+      "email": "sonukushwah362@gmail.com",
+      "phone": 9977696218,
+      "fname": "sonu",
+      "lname": "kushwah",
+      "gender": "Male",
+      "dob": "2025-07-17",
+      "roll_no": "121",
+      "blood_group": "A+",
+      "religion": "Hindu",
+      "class": "L.K.G",
+      "section": "M1",
+      "admission_id": "121",
+      "address": "Anand Nagar\n140"
+    },
+    {
+      "fname": "chirag",
+      "lname": "jain",
+      "gender": "Male",
+      "dob": "2025-05-29",
+      "roll_no": "123456",
+      "blood_group": "A+",
+      "religion": "Hindu",
+      "email": "chiram@gmail.com",
+      "class": "L.K.G",
+      "section": "S2",
+      "admission_id": "121",
+      "phone": "8358957395",
+      "address": "Maharaj Bada",
+      "id": "3"
+    },
+    {
+      "fname": "Nitin ",
+      "lname": "sen",
+      "gender": "Female",
+      "dob": "2025-06-20",
+      "roll_no": "121",
+      "blood_group": "B+",
+      "religion": "Islam",
+      "email": "nitin@gmail.com",
+      "class": "L.K.G",
+      "section": "S2",
+      "admission_id": "121",
+      "phone": "8358957395",
+      "address": "Rani Pura",
+      "id": "4"
+    },
+    {
+      "id": "6a57",
+      "fname": "vanshika",
+      "lname": "kushwah",
+      "gender": "Female",
+      "dob": "2025-06-03",
+      "roll_no": "121",
+      "blood_group": "B+",
+      "religion": "Hindu",
+      "email": "vanshika@gmail.com",
+      "class": "L.K.G",
+      "section": "S2",
+      "admission_id": "121",
+      "phone": "8358957395",
+      "address": "Anand Nagar\n140"
+    },
+    {
+      "id": "6dc8",
+      "name": "shivam",
+      "email": "shivam@gmail.com",
+      "fname": "chohan",
+      "phone": 8358957395
+    },
+    {
+      "id": "8d74",
+      "name": "kausal",
+      "email": "kashal@gmail.com",
+      "fname": "sharma",
+      "phone": 1234568
+    }
+  ]
+}
